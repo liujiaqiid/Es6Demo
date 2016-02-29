@@ -1,0 +1,8 @@
+{
+  "newObj": {
+    "authCode": "123456",
+    "phoneNum": "13000000000",
+    "isDeleted": false,
+    "isAuth": false
+  }
+}
